@@ -1,0 +1,25 @@
+{
+   padding: 0;
+   margin: 0;
+}
+body
+{
+
+}
+.menu-bar
+{
+   background: rgb(255,99,71,0.5);
+   text-align= center;
+}
+.menu-bar ul
+{
+   display: inline-flex;
+   list-style: none;
+   color: #fff;
+}
+.menu-bar ul li
+{
+   width: 120px;
+   margin: 10px;
+   padding: 15px;
+}
